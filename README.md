@@ -29,8 +29,11 @@ Cost: Free
 ➡️ Architectural Diagram:
 
 This it the architectural diagram for the project:
+<img width="1607" height="808" alt="image" src="https://github.com/user-attachments/assets/d7909990-76de-4e88-ad3f-db4e77f18c4d" />
+
 
 
 
 ➡️ Final Result:
+<img width="796" height="680" alt="image" src="https://github.com/user-attachments/assets/65a6f7d4-2cb6-42f5-8614-8335b3a17ec1" />
 
